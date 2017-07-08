@@ -1,4 +1,4 @@
-C:\Users\aksha\Desktop\logorecog>python retrain.py --image_dir=C:\Users\aksha\Desktop\logorecog\logos
+C:\Users\aksha\Desktop\logorecog>python retrain.py --output_graph=retrained_graph.pb --output_labels=retrained_labels.txt --image_dir=C:\Users\aksha\Desktop\logorecog\logos
 2017-07-04 12:56:54.778733: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE instructions, but these are available on your machine and could speed up CPU computations.
 2017-07-04 12:56:54.850738: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE2 instructions, but these are available on your machine and could speed up CPU computations.
 2017-07-04 12:56:54.864569: W c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
