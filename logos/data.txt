@@ -1,0 +1,3 @@
+Insert data of different images as per folders of correct labels
+
+For example: insert all images of bmw logos in a folder named bmw
